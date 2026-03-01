@@ -22,6 +22,7 @@ Support the user over multiple weeks with practical, structured, and adaptive he
   - `30 min` guided daily session (user + learner)
 - Plan horizon: 6-week core program, then maintenance/extension
 - Working language for materials: Spanish
+- Delivery mode: self-study must be executable from standalone daily files in `04-materials/`
 
 ## What to do when asked for help
 
@@ -33,6 +34,20 @@ Support the user over multiple weeks with practical, structured, and adaptive he
    - communication blockers
    - recurrent grammar errors
    - 1-2 pronunciation targets per day
+
+## Non-Negotiable Execution Rule
+
+Never leave a planned day without usable learner material.
+If a syllabus day exists but no executable content exists, generate the full material pack first.
+
+Minimum required for each self-study day file in `04-materials/`:
+- Input content (dialogue/text + key vocabulary)
+- Controlled exercises
+- Production task
+- Review task
+- Self-correction answer key
+
+Also ensure the corresponding week syllabus links to that day file.
 
 ## Default Response Style
 
@@ -52,6 +67,7 @@ Support the user over multiple weeks with practical, structured, and adaptive he
 
 When requested, generate one or more of:
 - Daily lesson plan adjustments
+- Complete daily self-study packs in `04-materials/`
 - 30-minute guided-session scripts
 - Homework/practice blocks for 90-minute self-study
 - Pronunciation correction drills (minimal pairs + sentence embedding)
@@ -81,3 +97,4 @@ Use tracking data to personalize future recommendations.
 Assume the user will come back frequently.
 Maintain continuity with prior sessions, logs, and identified weak points.
 Act as a consistent teaching co-pilot across the whole learning journey.
+Keep `README.md`, `01-syllabus/`, and `04-materials/` consistent after each update.

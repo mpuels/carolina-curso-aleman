@@ -5,6 +5,9 @@
 ### Objetivo del día
 Presentarse con 4-5 frases simples (nombre, origen, residencia, idioma).
 
+### Material de autoestudio del día
+`/04-materials/week-01/day-01.md`
+
 ### Autoestudio (90 min)
 - **Input (~25m)**: diálogo de presentación personal; identificar `ich heiße`, `ich komme aus`, `ich wohne in`, `ich spreche`.
 - **Controlled practice (~35m)**: completar 15 frases con `sein/heißen/kommen/wohnen`.
@@ -27,6 +30,9 @@ Cuaderno, lista de verbos base, móvil para grabar audio.
 
 ### Objetivo del día
 Pedir y dar información básica de país, ciudad y profesión.
+
+### Material de autoestudio del día
+`/04-materials/week-01/day-02.md`
 
 ### Autoestudio (90 min)
 - **Input (~25m)**: mini diálogo `Woher kommst du?`, `Was machst du beruflich?`.
@@ -51,6 +57,9 @@ Lista de preguntas básicas, audio propio del Día 1.
 ### Objetivo del día
 Usar números 0-100, deletrear datos personales y dar teléfono.
 
+### Material de autoestudio del día
+`/04-materials/week-01/day-03.md`
+
 ### Autoestudio (90 min)
 - **Input (~25m)**: audio de números, teléfonos y deletreo alemán.
 - **Controlled practice (~35m)**: dictado de números + 10 ejercicios de deletreo.
@@ -73,6 +82,9 @@ Tabla de números, alfabeto alemán, hoja de datos personales.
 
 ### Objetivo del día
 Hablar de la hora y días de la semana para coordinar horarios.
+
+### Material de autoestudio del día
+`/04-materials/week-01/day-04.md`
 
 ### Autoestudio (90 min)
 - **Input (~25m)**: expresiones `Wie spät ist es?`, `um`, `am`, días.
@@ -97,6 +109,9 @@ Reloj/agenda, tabla de días y preposiciones temporales.
 ### Objetivo del día
 Describir rutina de mañana/tarde/noche con verbos frecuentes.
 
+### Material de autoestudio del día
+`/04-materials/week-01/day-05.md`
+
 ### Autoestudio (90 min)
 - **Input (~25m)**: diálogo de rutina con `aufstehen`, `arbeiten`, `essen`, `lernen`.
 - **Controlled practice (~35m)**: conjugación en presente (ich/du/sie/wir).
@@ -120,6 +135,9 @@ Lista de verbos frecuentes en presente.
 ### Objetivo del día
 Pedir comida/bebida y cantidades básicas.
 
+### Material de autoestudio del día
+`/04-materials/week-01/day-06.md`
+
 ### Autoestudio (90 min)
 - **Input (~25m)**: frases de cafetería/supermercado (`ich möchte`, `ein Kilo`, `eine Flasche`).
 - **Controlled practice (~35m)**: 12 ejercicios de artículo + sustantivo + cantidad.
@@ -142,6 +160,9 @@ Lista de alimentos, precios ficticios, bolsa de vocabulario.
 
 ### Objetivo del día
 Integrar lo aprendido en una conversación guiada de 2 minutos.
+
+### Material de autoestudio del día
+`/04-materials/week-01/day-07.md`
 
 ### Autoestudio (90 min)
 - **Input (~25m)**: escuchar 2 diálogos (presentación + compra).

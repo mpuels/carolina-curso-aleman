@@ -8,18 +8,25 @@ Este repositorio contiene un plan completo para aprender alemán desde nivel ini
 - `01-syllabus/`: plan de 6 semanas con 7 días por semana.
 - `02-sessions/`: plantillas de sesiones (autoestudio y sesión guiada) y checklist de pronunciación.
 - `03-tracking/`: seguimiento diario/semanal y registro de errores fosilizados.
+- `04-materials/`: materiales ejecutables de autoestudio por día (input, ejercicios, producción, clave).
 
 ## Cómo usar este sistema
 
 1. Ejecuta primero `00-assessment/placement-test.md`.
 2. Corrige con `00-assessment/placement-answer-key.md`.
 3. Determina nivel en `00-assessment/level-decision-rubric.md`.
-4. Revisa `01-syllabus/overview-6-weeks.md` y empieza por `week-01.md`.
+4. Revisa `01-syllabus/overview-6-weeks.md` y el archivo de semana correspondiente.
 5. Cada día:
-   - Ella realiza `90 min` de autoestudio.
+   - Ella realiza `90 min` de autoestudio usando el material diario en `04-materials/...`.
    - Ustedes hacen `30 min` juntos (`15 min` contenido nuevo + `15 min` repaso/corrección).
    - Registran resultados en `03-tracking/learning-log.md`.
 6. Cada semana, completar `03-tracking/weekly-review-template.md` y actualizar `03-tracking/issue-log-fossil-errors.md`.
+
+## Estado actual de materiales
+
+- Week 1 ya tiene pack completo en `04-materials/week-01/day-01.md` a `day-07.md`.
+- Cada día de `01-syllabus/week-01.md` incluye enlace directo a su material de autoestudio.
+- Si una semana no tiene material ejecutable aún, generarlo antes de iniciar ese día.
 
 ## Reglas operativas
 
