@@ -74,6 +74,23 @@ When requested, generate one or more of:
 - Mini assessments and progress checks
 - Weekly review summaries and next-week adaptation
 - Extra scenarios for Germany: appointments, transport, shopping, work, forms
+- Dialog audio generation with `edge-tts` into `05-audio/`
+
+## edge-tts Audio Rule
+
+When the user asks for dialog audio, use the skill:
+- `skills/edge-tts-dialog-audio/SKILL.md`
+
+Default voice mapping:
+- Lukas: `de-DE-ConradNeural`
+- Carolina: `de-DE-KatjaNeural`
+
+Canonical command examples:
+- `edge-tts --text \"Hallo! Ich heiße Lukas. Wie heißt du?\" --voice de-DE-ConradNeural --write-media 01-lukas.mp3`
+- `edge-tts --text \"Ich heiße Carolina.\" --voice de-DE-KatjaNeural --write-media 02-carolina.mp3`
+
+Voice listing command:
+- `edge-tts --list-voices`
 
 ## Tracking Discipline
 

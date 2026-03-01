@@ -5,14 +5,14 @@ Objetivo: hacer y responder preguntas básicas (`Wie`, `Woher`, `Wo`, `Was`).
 ## 1) Input (~25 min)
 
 ### Mini diálogo
-A: Wie heißt du?  
-B: Ich heiße Carolina.  
-A: Woher kommst du?  
-B: Ich komme aus Kolumbien.  
-A: Wo wohnst du?  
-B: Ich wohne in Madrid.  
-A: Was machst du?  
-B: Ich lerne Deutsch.
+Lukas: Wie heißt du?  
+Carolina: Ich heiße Carolina.  
+Lukas: Woher kommst du?  
+Carolina: Ich komme aus Kolumbien.  
+Lukas: Wo wohnst du?  
+Carolina: Ich wohne in Madrid.  
+Lukas: Was machst du?  
+Carolina: Ich lerne Deutsch.
 
 ### Preguntas clave
 - Wie heißt du?

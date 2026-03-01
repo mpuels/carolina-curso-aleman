@@ -5,12 +5,12 @@ Objetivo: presentarte con frases simples en alemán.
 ## 1) Input (~25 min)
 
 ### Diálogo modelo
-A: Hallo! Ich heiße Laura. Wie heißt du?  
-B: Ich heiße Carolina.  
-A: Woher kommst du?  
-B: Ich komme aus Kolumbien. Und du?  
-A: Ich komme aus Deutschland. Wo wohnst du?  
-B: Ich wohne in Madrid. Ich spreche Spanisch und ein bisschen Deutsch.
+Lukas: Hallo! Ich heiße Lukas. Wie heißt du?  
+Carolina: Ich heiße Carolina.  
+Lukas: Woher kommst du?  
+Carolina: Ich komme aus Kolumbien. Und du?  
+Lukas: Ich komme aus Deutschland. Wo wohnst du?  
+Carolina: Ich wohne in Madrid. Ich spreche Spanisch und ein bisschen Deutsch.
 
 ### Vocabulario clave
 - `heißen` = llamarse
