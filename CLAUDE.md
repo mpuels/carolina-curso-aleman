@@ -16,7 +16,7 @@ For the full teaching mission, constraints, and pedagogical rules, read `AGENTS.
 02-sessions/      # Templates for guided sessions and pronunciation checklists
 03-tracking/      # Learning log, CEFR checklist, fossil error log, weekly review
 04-materials/     # Daily self-study packs (week-01/day-01.md, etc.)
-05-audio/         # Generated MP3 files — gitignored, produced with edge-tts
+05-audio/         # Generated MP3 files — committed to repo, produced with edge-tts
 skills/           # Skill definitions (edge-tts-dialog-audio/SKILL.md)
 ```
 
@@ -49,20 +49,14 @@ edge-tts --text "..." --voice de-DE-KatjaNeural --rate=-15% --volume=+5% --write
 
 Files are numbered sequentially so `mplayer *.mp3` plays turns in order. See `skills/edge-tts-dialog-audio/SKILL.md` for the full workflow.
 
-## Docsify web server
+## Web
 
-The repo is set up to serve all markdown files as web pages via Docsify.
-
-```bash
-npm install -g docsify-cli
-docsify serve . -p 8080
-```
-
-Pages are then accessible at `http://localhost:8080/#/04-materials/week-01/day-01` etc.
+The site is served via GitHub Pages at **https://mpuels.github.io/carolina-curso-aleman**.
 
 Key files:
 - `index.html` — Docsify bootstrap (vue theme, sidebar enabled)
 - `_sidebar.md` — navigation; **must be updated whenever a new day or week is added**
+- `.nojekyll` — prevents GitHub Pages from running Jekyll, which would otherwise drop `_sidebar.md`
 
 ## Audio embeds in material files
 
@@ -70,10 +64,10 @@ Key files:
 
 ```markdown
 Lukas: Hallo! Ich heiße Lukas.
-<audio controls preload="none" src="/05-audio/week-01/day-01/01-lukas.mp3"></audio>
+<audio controls preload="none" src="05-audio/week-01/day-01/01-lukas.mp3"></audio>
 ```
 
-The `src` path is absolute from the repo root (starts with `/05-audio/...`) so Docsify resolves it correctly. Follow this pattern for every dialog line in new material files that have audio.
+The `src` path must be **relative** (no leading `/`) so it resolves correctly on GitHub Pages. Follow this pattern for every dialog line in new material files that have audio.
 
 ## Tracking files to update
 
