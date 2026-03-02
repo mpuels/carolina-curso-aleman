@@ -1,10 +1,10 @@
-- [Inicio](#/)
+- [Inicio](/)
 - Materiales
 - Semana 01
-- [Dia 01](#/04-materials/week-01/day-01)
-- [Dia 02](#/04-materials/week-01/day-02)
-- [Dia 03](#/04-materials/week-01/day-03)
-- [Dia 04](#/04-materials/week-01/day-04)
-- [Dia 05](#/04-materials/week-01/day-05)
-- [Dia 06](#/04-materials/week-01/day-06)
-- [Dia 07](#/04-materials/week-01/day-07)
+- [Dia 01](/04-materials/week-01/day-01)
+- [Dia 02](/04-materials/week-01/day-02)
+- [Dia 03](/04-materials/week-01/day-03)
+- [Dia 04](/04-materials/week-01/day-04)
+- [Dia 05](/04-materials/week-01/day-05)
+- [Dia 06](/04-materials/week-01/day-06)
+- [Dia 07](/04-materials/week-01/day-07)
