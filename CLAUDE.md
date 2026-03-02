@@ -49,6 +49,32 @@ edge-tts --text "..." --voice de-DE-KatjaNeural --rate=-15% --volume=+5% --write
 
 Files are numbered sequentially so `mplayer *.mp3` plays turns in order. See `skills/edge-tts-dialog-audio/SKILL.md` for the full workflow.
 
+## Docsify web server
+
+The repo is set up to serve all markdown files as web pages via Docsify.
+
+```bash
+npm install -g docsify-cli
+docsify serve . -p 8080
+```
+
+Pages are then accessible at `http://localhost:8080/#/04-materials/week-01/day-01` etc.
+
+Key files:
+- `index.html` — Docsify bootstrap (vue theme, sidebar enabled)
+- `_sidebar.md` — navigation; **must be updated whenever a new day or week is added**
+
+## Audio embeds in material files
+
+`day-01.md` sets the pattern: each dialog turn gets an inline `<audio>` player immediately after the text line:
+
+```markdown
+Lukas: Hallo! Ich heiße Lukas.
+<audio controls preload="none" src="/05-audio/week-01/day-01/01-lukas.mp3"></audio>
+```
+
+The `src` path is absolute from the repo root (starts with `/05-audio/...`) so Docsify resolves it correctly. Follow this pattern for every dialog line in new material files that have audio.
+
 ## Tracking files to update
 
 After any session or material change, encourage updating:
