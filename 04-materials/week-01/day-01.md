@@ -6,11 +6,22 @@ Objetivo: presentarte con frases simples en alemán.
 
 ### Diálogo modelo
 Lukas: Hallo! Ich heiße Lukas. Wie heißt du?  
+<audio controls preload="none" src="/05-audio/week-01/day-01/01-lukas.mp3"></audio>
+
 Carolina: Ich heiße Carolina.  
+<audio controls preload="none" src="/05-audio/week-01/day-01/02-carolina.mp3"></audio>
+
 Lukas: Woher kommst du?  
+<audio controls preload="none" src="/05-audio/week-01/day-01/03-lukas.mp3"></audio>
+
 Carolina: Ich komme aus Kolumbien. Und du?  
+<audio controls preload="none" src="/05-audio/week-01/day-01/04-carolina.mp3"></audio>
+
 Lukas: Ich komme aus Deutschland. Wo wohnst du?  
+<audio controls preload="none" src="/05-audio/week-01/day-01/05-lukas.mp3"></audio>
+
 Carolina: Ich wohne in Madrid. Ich spreche Spanisch und ein bisschen Deutsch.
+<audio controls preload="none" src="/05-audio/week-01/day-01/06-carolina.mp3"></audio>
 
 ### Vocabulario clave
 - `heißen` = llamarse

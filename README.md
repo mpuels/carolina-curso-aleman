@@ -28,6 +28,27 @@ Este repositorio contiene un plan completo para aprender alemán desde nivel ini
 - Cada día de `01-syllabus/week-01.md` incluye enlace directo a su material de autoestudio.
 - Si una semana no tiene material ejecutable aún, generarlo antes de iniciar ese día.
 
+## Web local (Markdown como páginas)
+
+El repo está preparado para visualizar cada `.md` como página web separada usando Docsify.
+
+Archivos de soporte:
+- `index.html`: arranque de Docsify.
+- `_sidebar.md`: navegación por materiales.
+
+Arranque recomendado en Ubuntu/EC2:
+```bash
+npm install -g docsify-cli
+cd /home/mpuels/projects/carolina-curso-aleman
+docsify serve . -p 8080
+```
+
+Ejemplo de página diaria:
+- `http://<EC2_PUBLIC_IP>:8080/#/04-materials/week-01/day-01`
+
+Nota audio:
+- En `04-materials/week-01/day-01.md` ya hay un reproductor `<audio controls>` por turno del diálogo, enlazado a `05-audio/week-01/day-01/*.mp3`.
+
 ## Reglas operativas
 
 - Mantener ritmo de `7 días/semana` durante `6 semanas`.
