@@ -5,14 +5,29 @@ Objetivo: hacer y responder preguntas básicas (`Wie`, `Woher`, `Wo`, `Was`).
 ## 1) Input (~25 min)
 
 ### Mini diálogo
-Lukas: Wie heißt du?  
-Carolina: Ich heiße Carolina.  
-Lukas: Woher kommst du?  
-Carolina: Ich komme aus Kolumbien.  
-Lukas: Wo wohnst du?  
-Carolina: Ich wohne in Madrid.  
-Lukas: Was machst du?  
+Lukas: Wie heißt du?
+<audio controls preload="none" src="05-audio/week-01/day-02/01-lukas.mp3"></audio>
+
+Carolina: Ich heiße Carolina.
+<audio controls preload="none" src="05-audio/week-01/day-02/02-carolina.mp3"></audio>
+
+Lukas: Woher kommst du?
+<audio controls preload="none" src="05-audio/week-01/day-02/03-lukas.mp3"></audio>
+
+Carolina: Ich komme aus Kolumbien.
+<audio controls preload="none" src="05-audio/week-01/day-02/04-carolina.mp3"></audio>
+
+Lukas: Wo wohnst du?
+<audio controls preload="none" src="05-audio/week-01/day-02/05-lukas.mp3"></audio>
+
+Carolina: Ich wohne in Madrid.
+<audio controls preload="none" src="05-audio/week-01/day-02/06-carolina.mp3"></audio>
+
+Lukas: Was machst du?
+<audio controls preload="none" src="05-audio/week-01/day-02/07-lukas.mp3"></audio>
+
 Carolina: Ich lerne Deutsch.
+<audio controls preload="none" src="05-audio/week-01/day-02/08-carolina.mp3"></audio>
 
 ### Preguntas clave
 - Wie heißt du?
